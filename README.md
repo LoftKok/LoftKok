@@ -1,9 +1,11 @@
 ### Olá pessoa! 7w7 👋
 
 ### GitHub criado para divulgação de codigos e projetos desenvolvidos em aula na ETEC Bartolomeu.
-### - 🔭 Atualmente Trabalhando em... Terminar os estudos;
-### - 🌱 Atualmente Estudando ... HTML, CSS, JavaScript, PHP, Kotlin, Java, Python, React e CCC (Curso Curicular Comum)
-### - 😄 Pronomes: Tu/Ele
+<p>
+🔭 Atualmente Trabalhando em... Terminar os estudos;
+<br/>
+🌱 Atualmente Estudando ... HTML, CSS, JavaScript, PHP, Kotlin, Java, Python, React e CCC (Curso Curicular Comum)
+</p>
 
 <!--
 **LoftKok/LoftKok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

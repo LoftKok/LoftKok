@@ -4,7 +4,7 @@
 <p>
 🔭 Atualmente Trabalhando em... Terminar os estudos;
 <br/>
-🌱 Atualmente Estudando ... HTML, CSS, JavaScript, PHP, Kotlin, Java, Python, React e CCC (Curso Curicular Comum)
+🌱 Atualmente Estudando ... HTML, CSS, JavaScript, PHP, Kotlin, Java, React e CCC (Curso Curicular Comum)
 </p>
 
 <!--
